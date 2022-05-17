@@ -5,6 +5,6 @@
 - 📫 How to reach me youngtimmy52@gmail.com...
 
 <!---
-Jysuccess01/Jysuccess01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jaysuccess01/Jaysuccess01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
