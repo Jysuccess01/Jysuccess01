@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaysuccess01
-- 👀 I’m interested in Coding
+- 💻 I’m interested in Coding
 - 🌱 I’m currently learning phyton...
-- 💞️ I’m looking to collaborate on phyton...
+
 - 📫 How to reach me youngtimmy52@gmail.com...
 
 <!---
